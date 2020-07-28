@@ -13,7 +13,7 @@ class UsersController < ApplicationController
     def create
         user = User.create(new_user_params)
         render json: user
-    end
+     end
 
 
     private
