@@ -1,2 +1,2 @@
-class Comic < ApplicationRecord
+class Comic < ApplicationRecord    
 end
